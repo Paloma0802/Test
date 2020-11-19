@@ -3,6 +3,8 @@ import torch.nn as nn
 import torch.nn.functional as F
 from .Model import Model
 
+'test'
+
 class TransH(Model):
 
 	def __init__(self, ent_tot, rel_tot, dim = 100, p_norm = 1, norm_flag = True, margin = None, epsilon = None):
