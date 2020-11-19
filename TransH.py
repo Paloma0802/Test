@@ -4,6 +4,7 @@ import torch.nn.functional as F
 from .Model import Model
 
 'test'
+'anyway'
 
 class TransH(Model):
 
